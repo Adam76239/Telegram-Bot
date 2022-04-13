@@ -1,3 +1,4 @@
-# Telegram-Bot![bot]
+# Telegram-Bot
 An interactive Telegram chat bot. Written in python.
-(https://user-images.githubusercontent.com/97418619/163075144-1c9c4a2e-ef54-49da-a251-1c66c3a933bd.gif)
+
+![bot](https://user-images.githubusercontent.com/97418619/163075443-552f0573-7857-4d8a-aea1-59063938b02c.gif)
